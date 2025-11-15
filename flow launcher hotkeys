@@ -1,0 +1,8 @@
+Alt + Space    startup
+f1 toggle      Preview
+Alt + O        Dialog Jump
+ctrl + tab     Autocomplete
+shift + tab    Select previous item
+tab            Select next item
+
+custom built-in Shortcuts {clipboard} {active_explorer_path}
